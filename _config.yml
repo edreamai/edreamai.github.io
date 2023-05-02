@@ -6,13 +6,13 @@ ios_app_id                                : 6447890228            # Required. En
 ios_app_country                           : cn                    # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             : https://apps.apple.com/cn/app/speakai/id6447890228     # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
+playstore_link                            : https://play.google.com/store/apps                                          # Enter Google Play Store URL.
 presskit_download_link                    : https://apkmirror.com                     # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : SpeakAI - 口语学习                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : 与世界上最先进的AI导师交谈，实时获得反馈，帮助您学习新语言
+app_price                                 : 免费                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : 与世界上最先进的AI导师交谈，实时获得反馈，帮助您学习新语言。
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,17 +35,17 @@ enable_smart_app_banner                   : true                                
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : 智能AI导师
+    description                           : 解锁chatGPT的强大能力
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : 实时反馈
+    description                           : 获得实时和个性化的反馈
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : 更多功能，敬请期待
+    description                           : 发音评分，考试模式，沉浸式对话...
+    fontawesome_icon_name                 : fa-graduation-cap
 
 
 # Theme Settings

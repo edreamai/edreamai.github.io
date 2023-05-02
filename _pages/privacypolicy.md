@@ -1,60 +1,21 @@
 ---
 layout: page
-title: Privacy Policy
+title: 隐私政策
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+# 隐私政策
+SpeakAI服务（以下简称本服务）非常重视用户隐私政策并严格遵守相关的法律规定。请您仔细阅读《隐私政策》后再继续使用。如果您继续使用我们的服务，表示您已经充分阅读和理解我们协议的全部内容。
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+本服务尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更优质的服务，本应用会按照本隐私权政策的规定使用和披露您的个人信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，本应用不会将这些信息对外披露或向第三方提供。本应用会不时更新本隐私权政策。
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+您在使用本服务时，即视为您已经同意本隐私权政策全部内容。
 
-<br>
+1. 本服务不会向任何无关第三方提供、出售、出租、分享或交易您的个人信息，除非事先得到您的许可，或该第三方和本服务（含本服务关联公司）单独或共同为您提供服务，且在该服务结束后，其将被禁止访问包括其以前能够访问的所有这些资料。) 本服务亦不允许任何第三方以任何手段收集、编辑、出售或者无偿传播您的个人信息。任何本服务平台用户如从事上述活动，一经发现，本服务有权立即终止与该用户的服务协议。) 为服务用户的目的，本服务可能通过使用您的个人信息，向您提供您感兴趣的信息，包括但不限于向您发出产品和服务信息，或者与本服务合作伙伴共享信息以便他们向您发送有关其产品和服务的信息（后者需要您的事先同意）。
+2. 在如下情况下，本服务将依据您的个人意愿或法律的规定全部或部分的披露您的个人信息：) 经您事先同意，向第三方披露；) 为提供您所要求的产品和服务，而必须和第三方分享您的个人信息；) 根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；d) 如您出现违反中国有关法律、法规或者本服务服务协议或相关规则的情况，需要向第三方披露；e) 如您是适格的知识产权投诉人并已提起投诉，应被投诉人要求，向被投诉人披露，以便双方处理可能的权利纠纷；f) 在本服务平台上创建的某一交易中，如交易任何一方履行或部分履行了交易义务并提出信息披露请求的，本服务有权决定向该用户提供其交易对方的联络方式等必要信息，以促成交易的完成或纠纷的解决。g) 其它本服务根据法律、法规或者网站政策认为合适的披露。
+3. 我们定期地审查隐私政策的执行情况。当我们接到有关隐私问题的正式书面投诉时，我们会就用户关心的问题，联系做出投诉的用户。我们将配合相关的监管机构，包括当地的数据保护部门，以解决本服务和个人之间不能解决的有关个人资料转让方面的投诉。
+4.我们可能适时修订本《隐私政策》的条款，该等修订构成本《隐私政策》的一部分。如该等修订造成您在本《隐私政策》下的权利实质减少，我们将在修订生效前，在主页显著位置提示或向您发送电子邮件，或以其他方式通知您。在此种情况下，如果您继续使用我们的服务，即表示同意接受修订后的《隐私政策》的约束。
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+如有任何疑问，你可以通过以下方式与开发者联系，形式查阅、复制、更正、删除等法定权利。
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
-
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
-
-<br>
-
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
-
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
-
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
-
-<br>
-
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
-
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-<br>
-
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
-
-<br>
-
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+邮箱: service@edream.cc
