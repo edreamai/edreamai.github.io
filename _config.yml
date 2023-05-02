@@ -45,7 +45,7 @@ features                                  :
 
   - title                                 : 更多功能，敬请期待
     description                           : 发音评分，考试模式，沉浸式对话...
-    fontawesome_icon_name                 : fa-graduation-cap
+    fontawesome_icon_name                 : graduation-cap
 
 
 # Theme Settings
