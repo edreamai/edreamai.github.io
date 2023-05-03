@@ -6,8 +6,8 @@ ios_app_id                                : 6447890228            # Required. En
 ios_app_country                           : cn                    # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             : https://apps.apple.com/cn/app/speakai/id6447890228     # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://play.google.com/store/apps                                          # Enter Google Play Store URL.
-presskit_download_link                    : https://apkmirror.com                     # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
+playstore_link                            : https://edreamai.feishu.cn/docx/C5OGd008Hoz6tVxKfygcdIIRnsA                                          # Enter Google Play Store URL.
+presskit_download_link                    : https://edreamai.feishu.cn/docx/C5OGd008Hoz6tVxKfygcdIIRnsA                    # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : SpeakAI - 口语学习                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
