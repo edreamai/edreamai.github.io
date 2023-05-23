@@ -1,21 +1,25 @@
 ---
 layout: page
-title: 隐私政策
+title: Privacy Policy
 include_in_header: false
 ---
 
-# 隐私政策
-SpeakAI服务（以下简称本服务）非常重视用户隐私政策并严格遵守相关的法律规定。请您仔细阅读《隐私政策》后再继续使用。如果您继续使用我们的服务，表示您已经充分阅读和理解我们协议的全部内容。
+# Privacy Policy
 
-本服务尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更优质的服务，本应用会按照本隐私权政策的规定使用和披露您的个人信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，本应用不会将这些信息对外披露或向第三方提供。本应用会不时更新本隐私权政策。
+SpeakAI Service (hereinafter referred to as "the Service") highly values the privacy policy of its users and strictly adheres to relevant laws and regulations. Please carefully read the Privacy Policy before continuing to use the service. By continuing to use our service, it indicates that you have read and understood the entire content of our agreement.
 
-您在使用本服务时，即视为您已经同意本隐私权政策全部内容。
+The Service respects and protects the privacy rights of all users. In order to provide you with more accurate and high-quality services, this application will use and disclose your personal information in accordance with the provisions of this Privacy Policy. Unless otherwise specified in this Privacy Policy or with your prior permission, this application will not disclose these information to external parties or provide them to third parties. This Privacy Policy may be updated from time to time.
 
-1. 本服务不会向任何无关第三方提供、出售、出租、分享或交易您的个人信息，除非事先得到您的许可，或该第三方和本服务（含本服务关联公司）单独或共同为您提供服务，且在该服务结束后，其将被禁止访问包括其以前能够访问的所有这些资料。) 本服务亦不允许任何第三方以任何手段收集、编辑、出售或者无偿传播您的个人信息。任何本服务平台用户如从事上述活动，一经发现，本服务有权立即终止与该用户的服务协议。) 为服务用户的目的，本服务可能通过使用您的个人信息，向您提供您感兴趣的信息，包括但不限于向您发出产品和服务信息，或者与本服务合作伙伴共享信息以便他们向您发送有关其产品和服务的信息（后者需要您的事先同意）。
-2. 在如下情况下，本服务将依据您的个人意愿或法律的规定全部或部分的披露您的个人信息：) 经您事先同意，向第三方披露；) 为提供您所要求的产品和服务，而必须和第三方分享您的个人信息；) 根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；d) 如您出现违反中国有关法律、法规或者本服务服务协议或相关规则的情况，需要向第三方披露；e) 如您是适格的知识产权投诉人并已提起投诉，应被投诉人要求，向被投诉人披露，以便双方处理可能的权利纠纷；f) 在本服务平台上创建的某一交易中，如交易任何一方履行或部分履行了交易义务并提出信息披露请求的，本服务有权决定向该用户提供其交易对方的联络方式等必要信息，以促成交易的完成或纠纷的解决。g) 其它本服务根据法律、法规或者网站政策认为合适的披露。
-3. 我们定期地审查隐私政策的执行情况。当我们接到有关隐私问题的正式书面投诉时，我们会就用户关心的问题，联系做出投诉的用户。我们将配合相关的监管机构，包括当地的数据保护部门，以解决本服务和个人之间不能解决的有关个人资料转让方面的投诉。
-4. 我们可能适时修订本《隐私政策》的条款，该等修订构成本《隐私政策》的一部分。如该等修订造成您在本《隐私政策》下的权利实质减少，我们将在修订生效前，在主页显著位置提示或向您发送电子邮件，或以其他方式通知您。在此种情况下，如果您继续使用我们的服务，即表示同意接受修订后的《隐私政策》的约束。
+By using this service, you are deemed to have agreed to the entire content of this Privacy Policy.
 
-如有任何疑问，你可以通过以下方式与开发者联系，形式查阅、复制、更正、删除等法定权利。
+The Service will not provide, sell, rent, share, or trade your personal information with any unrelated third parties, unless prior permission is obtained from you, or when the third party and the Service (including associated companies of the Service) separately or jointly provide services to you, and after the service ends, they will be prohibited from accessing all the information they previously had access to. The Service also does not allow any third party to collect, edit, sell, or disseminate your personal information by any means. If any user of this Service platform engages in the above activities, once discovered, the Service has the right to immediately terminate the service agreement with that user. For the purpose of serving users, the Service may use your personal information to provide you with information that you may be interested in, including but not limited to sending you product and service information or sharing information with service partners for them to send you information about their products and services (the latter requires your prior consent).
 
-邮箱: service@edream.cc
+The Service may disclose your personal information in whole or in part in the following situations: with your prior consent to disclose to third parties; when it is necessary to share your personal information with third parties in order to provide the products and services you requested; in accordance with the relevant provisions of laws or the requirements of administrative or judicial institutions, to disclose to third parties or administrative and judicial institutions; when you violate relevant laws, regulations, or the Service Service Agreement or related rules, disclosure is required to third parties; when you are an eligible intellectual property complainant and have filed a complaint, as required by the complained party, disclosure is made to the complained party in order to handle potential rights disputes; in a transaction created on this Service platform, if any party fulfills or partially fulfills the transaction obligations and requests information disclosure, the Service has the right to decide to provide necessary information such as contact details of the transaction counterparty to facilitate the completion of the transaction or the resolution of disputes; and in other cases where the Service believes it is appropriate to disclose according to laws, regulations, or website policies.
+
+We regularly review the implementation of the Privacy Policy. When we receive formal written complaints about privacy issues, we will contact the user who made the complaint to address the concerns raised. We will cooperate with relevant regulatory agencies, including local data protection authorities, to resolve complaints regarding the transfer of personal data between the Service and individuals that cannot be resolved.
+
+We may revise the terms of this Privacy Policy from time to time, and such revisions shall form part of this Privacy Policy. If such revisions result in a substantial reduction of your rights under this Privacy Policy, we will prominently display or send an email to you before the revisions take effect, or notify you in any other appropriate manner. In such cases, if you continue to use our service, it means that you agree to be bound by the revised Privacy Policy.
+
+If you have any questions, you can contact the developer in the following ways, and exercise your legal rights to access, copy, correct, delete, etc.
+
+Email: service@edream.cc

@@ -1,32 +1,37 @@
 ---
 layout: page
-title: 更新日志
+title: What's New
 include_in_header: true
 ---
 
-# 更新日志
+# Changelog
+## 1.0.2
 
-## 20230502
+【New Features】
+1. Real-time mode, 1v1 real-time calls with Jenny teacher.
+2. Support for automatic grammar checking.
 
-新功能
+【Function Optimization】
+1. IOS end text long press supports selecting individual words.
 
-1. 新增对话翻译功能，看不懂的单词也不用去查词典了
-2. 新增笔记本功能，可以收藏消息和统一复习了
-3. 新增提示词功能，不知道怎么回答可以跟读参考答案
+【Bug Fixes】
+1. Fix the issue that the send button can not be clicked when the network is poor.
+2. Fix the issue that the history page can not be scrolled when too long.
 
-功能改进
+## 1.0.1
 
-1. 单次最长对话时间提高到60s
-2. 长按消息支持选中文本复制
+【New Features】
 
-问题修复
+1. Added conversation translation function, no need to look up words in the dictionary for unfamiliar words anymore.
+2. Added notebook function for collecting messages and unified review.
+3. Added prompt word function for reference answers when unsure how to respond.
 
-1. 修复退出聊天后语音继续播放的问题
-2. 修复录音时没有停止播放语音的问题
+【Feature Optimization】
 
-多平台
+1. Extended maximum conversation time to 60 seconds.
+2. Long-press messages to select and copy text.
 
-1. 官网有所有平台的入口链接   speakai.cc
-2. 支持iPhone/iPad/Mac
-3. 支持Android（Google Play/APKMirror）
-4. 支持wx小程序（因为政策原因，对话功能已阉割，后续可能不再维护）
+【Bug Fixes】
+
+1. Fixed the issue of voice playback continuing after exiting the chat.
+2. Fixed the issue of voice playback not stopping during recording.
