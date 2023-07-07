@@ -1,7 +1,6 @@
 ---
 layout: page
-title: More Language
-include_in_header: true
+title: Request More Language
 ---
 
 # SpeakAI Expanding Language Support!
