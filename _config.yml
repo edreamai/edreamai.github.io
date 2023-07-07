@@ -1,5 +1,5 @@
 #page title
-page_title                                : SpeakAI - Learn Language At Anytime and Anywhere                # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : SpeakAI - Learn Language Anytime and Anywhere                # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6447890228            # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -35,11 +35,11 @@ github_username                           : https://github.com/edreamai/edreamai
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : ChatGPT Tutor
+  - title                                 : AI Tutor powered by OpenAI
     description                           : Anytime, anywhere, your personal spoken language teacher
     fontawesome_icon_name                 : magic
   
-  - title                                 : Multiple Languages
+  - title                                 : Multiple Languages Learning
     description                           : Now we support Chinese, English, Japanese, Korean, French, German, Italian, and Spanish
     fontawesome_icon_name                 : language
 
