@@ -1,10 +1,33 @@
 ---
 layout: page
 title: What's New
+description: Lastest changelog for SpeakAI
 include_in_header: true
 ---
 
 # Changelog
+## 1.0.5
+1. Multi-language online, supporting 8 languages learning in Chinese, English, Japanese, Korean, French, German, Italian and Spanish.
+2. Support to choose favorite tone. Not only can you switch between British and American accents, but there are also a variety of character timbres to choose from.
+3. Support to adjust the speech rate. Fast, medium and slow, choose the speaking speed that suits you according to your needs.
+4. Long press the record button to support sending text, and you can also input Chinese translation and send it.
+
+## 1.0.4
+For the healthy and long-term operation of SpeakAI, a payment plan is now launched. Less than a cup of coffee a month ☕ 
+In addition:
+1. Free users still enjoy 10 free dialogue opportunities per day
+2. Participate in the grass planting activity now, 100% free members, come and try it~
+
+## 1.0.3
+【New Features】
+1. Added scenario courses, more courses are being updated
+2. Added flashcard follow-up function, you can practice the sentences in the notebook repeatedly
+3. Support registration and login, existing data will be automatically synchronized to the new account
+
+【Function Optimization】
+1. Live mode supports subtitles
+2. Long press the record button to support text input
+
 ## 1.0.2
 
 【New Features】
