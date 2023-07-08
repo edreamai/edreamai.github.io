@@ -1,5 +1,5 @@
 #page title
-page_title                                : SpeakAI - Learn Language Anytime and Anywhere                # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : SpeakAI - 随时随地学习口语               # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6447890228            # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -10,9 +10,9 @@ playstore_link                            : https://play.google.com/store/apps/d
 presskit_download_link                    : https://edreamai.feishu.cn/docx/C5OGd008Hoz6tVxKfygcdIIRnsA                    # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : SpeakAI - Learn Language                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Immerse yourself in the world of spoken languages with our AI-powered language app. Learn multiple languages, practice real-life scenarios, receive grammar corrections, and choose from a variety of voices. Start your language learning journey today!
+app_name                                  : SpeakAI - 口语学习                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : 免费                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : 通过我们的AI助手，沉浸式学习体验，多语言学习，支持中文、英文、日文、韩文、法文、德文、意大利文和西班牙文。情境课程，轻松应对各种对话场景，实时语法纠错，丰富的语音选择。从今天开始你的语言学习之旅吧！
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,28 +35,28 @@ github_username                           : https://github.com/edreamai/edreamai
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : AI Tutor powered by OpenAI
-    description                           : Our app features an advanced AI tutor, leveraging the power of OpenAI, to guide you through your language learning journey. Benefit from personalized learning paths and interactive exercises that adapt to your unique needs and pace.
+  - title                                 : 智能AI导师
+    description                           : 我们的应用采用先进的AI技术，提供智能AI助手，为您的语言学习之旅提供指导。享受个性化学习路径和互动练习，根据您的需求和节奏进行调整。
     fontawesome_icon_name                 : magic
   
-  - title                                 : Multiple Languages Learning
-    description                           : We offer support for a wide range of languages, including Chinese, English, Japanese, Korean, French, German, Italian, and Spanish. Explore different cultures and expand your global communication skills effortlessly.
+  - title                                 : 多语言学习
+    description                           : 我们支持中文、英文、日文、韩文、法文、德文、意大利文和西班牙文等多种语言。轻松探索不同文化，扩展您的全球交流能力。
     fontawesome_icon_name                 : language
 
-  - title                                 : Scenario Courses
-    description                           : Our app offers scenario-based courses that allow you to master dialogues and conversations in various real-life situations. Learn how to navigate through everyday conversations, business interactions, travel experiences, and more.
+  - title                                 : 情景课程
+    description                           : 我们的应用提供基于情境的课程，帮助您掌握各种真实场景中的对话和交流。学会应对日常对话、商务交流、旅行经历等各种情境。
     fontawesome_icon_name                 : book
     
-  - title                                 : Grammar Correction
-    description                           : Receive real-time feedback and personalized grammar suggestions to enhance your language proficiency. Our app helps you identify and correct grammatical errors, ensuring that your spoken language skills are accurate and polished.
+  - title                                 : 实时语法纠错
+    description                           : 实时获得反馈和个性化的语法建议，提升语言水平。我们的应用帮助您发现并纠正语法错误，确保您的口语表达准确流利。
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Real-time Mode
-    description                           : Immerse yourself in a realistic language learning experience with our real-time dialogue feature. Engage in conversations with virtual partners and native speakers, improving your pronunciation and fluency in a dynamic and interactive environment.
+  - title                                 : 实时对话模式
+    description                           : 通过我们的实时对话功能，沉浸式地体验真实的语言学习。与虚拟伙伴和母语者进行对话，提高发音和流利度，动态互动，让语言焕发生机。
     fontawesome_icon_name                 : graduation-cap
 
-  - title                                 : Rich Voice
-    description                           : Choose from a vast selection of over 100 voices, allowing you to find the perfect fit for your language learning journey. Experience the joy of learning with voices that resonate with you and make the language come alive.
+  - title                                 : 丰富的语音选择
+    description                           : 我们提供100多种语音选择，让您为语言学习之旅找到完美的配音。用与你共鸣的声音学习，让语言生动起来。
     fontawesome_icon_name                 : microphone
 
 

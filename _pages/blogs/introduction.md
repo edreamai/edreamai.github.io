@@ -1,33 +1,27 @@
 ---
 layout: page
-title: Welcome to SpeakAI
-description: Welcome to our AI-powered spoken language app, where language learning becomes an effortless and immersive experience.
+title: 欢迎使用SpeakAI
+description: 欢迎来到我们的AI助手口语学习应用，这里将为您提供轻松、沉浸式的语言学习体验。
 ---
 
-# Welcome to SpeakAI
+# 欢迎使用SpeakAI
 
-Welcome to our AI-powered spoken language app, where language learning becomes an effortless and immersive experience. Powered by OpenAI, our app is designed to help you learn multiple languages and improve your conversational skills in a variety of real-life scenarios. Whether you're a beginner or an advanced learner, our app offers a comprehensive language learning solution.
+欢迎来到我们的AI助手口语学习应用，这里将为您提供轻松、沉浸式的语言学习体验。我们的应用旨在帮助您学习多种语言，并在各种真实场景中提高口语交流能力。无论您是初学者还是高级学习者，我们的应用都能为您提供全面的语言学习解决方案。
 
-Key Features that Set Us Apart:
+我们的独特特色：
+1. 智能AI导师：我们的应用采用先进的AI技术，提供智能AI助手，为您的语言学习之旅提供指导。享受个性化学习路径和互动练习，根据您的需求和节奏进行调整。
+2. 多语言学习：我们支持中文、英文、日文、韩文、法文、德文、意大利文和西班牙文等多种语言。轻松探索不同文化，扩展您的全球交流能力。
+3. 情境课程：我们的应用提供基于情境的课程，帮助您掌握各种真实场景中的对话和交流。学会应对日常对话、商务交流、旅行经历等各种情境。
+4. 实时语法纠错：实时获得反馈和个性化的语法建议，提升语言水平。我们的应用帮助您发现并纠正语法错误，确保您的口语表达准确流利。
+5. 实时对话模式：通过我们的实时对话功能，沉浸式地体验真实的语言学习。与虚拟伙伴和母语者进行对话，提高发音和流利度，动态互动，让语言焕发生机。
+6. 丰富的语音选择：我们提供100多种语音选择，让您为语言学习之旅找到完美的配音。用与你共鸣的声音学习，让语言生动起来。
 
-1. AI Tutor powered by OpenAI: Our app features an advanced AI tutor, leveraging the power of OpenAI, to guide you through your language learning journey. Benefit from personalized learning paths and interactive exercises that adapt to your unique needs and pace.
+立即开始您的语言学习之旅：
 
-2. Multiple Languages Learning: We offer support for a wide range of languages, including Chinese, English, Japanese, Korean, French, German, Italian, and Spanish. Explore different cultures and expand your global communication skills effortlessly.
+通过我们的AI助手应用，踏上语言学习的冒险之旅。无论您是为了提高职业机会、与不同文化的人交流，还是纯粹为了拓宽知识面，我们的应用提供了您实现语言学习目标所需的工具和支持。
 
-3. Scenario Courses: Our app offers scenario-based courses that allow you to master dialogues and conversations in various real-life situations. Learn how to navigate through everyday conversations, business interactions, travel experiences, and more.
+加入我们充满激情的学习者社区，体验掌握新语言的喜悦。立即下载我们的应用，让我们的AI助手引领您逐步实现流利口语。
 
-4. Grammar Correction: Receive real-time feedback and personalized grammar suggestions to enhance your language proficiency. Our app helps you identify and correct grammatical errors, ensuring that your spoken language skills are accurate and polished.
+记住，通过我们的AI助手口语学习应用，语言学习再也不是障碍。立即开始您的旅程，开启无限的机会之门。
 
-5. Real-time Mode: Immerse yourself in a realistic language learning experience with our real-time dialogue feature. Engage in conversations with virtual partners and native speakers, improving your pronunciation and fluency in a dynamic and interactive environment.
-
-6. Rich Voice Options: Choose from a vast selection of over 100 voices, allowing you to find the perfect fit for your language learning journey. Experience the joy of learning with voices that resonate with you and make the language come alive.
-
-Start Your Language Learning Journey Today:
-
-Embark on a language learning adventure with our AI-powered app. Whether you're looking to enhance your professional opportunities, connect with people from different cultures, or simply expand your knowledge, our app provides the tools and support you need to achieve your language learning goals.
-
-Join our community of passionate learners and experience the joy of mastering new languages. Download our app now and let our AI tutor guide you towards language fluency, one conversation at a time.
-
-Remember, language learning is no longer a barrier with our AI-powered spoken language app. Start your journey today and unlock a world of opportunities.
-
-Get started now!
+立即开始！

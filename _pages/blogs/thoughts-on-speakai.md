@@ -1,44 +1,7 @@
 ---
 layout: page
-title: Thoughts on the development of SpeakAI
-description: Thoughts on the development of SpeakAI
----
-# Thoughts on the development of SpeakAI
-
-The initial idea can be traced back to the end of February and the beginning of March. At that time, ChatGPT became popular in China, and there were many websites with direct shells on the market. At that time, I thought that ChatGPT+ voice technology could be well implemented in oral language learning. .
-
-# Unexpected surprise
-
-I learned Taro a bit, then spent 2 weekends developing it, and launched the first version of the mini program at the end of March. I posted a post on Xiaohongshu, but I didn’t expect the market feedback to be good, far exceeding expectations and accumulating the first wave of users.
-
-# First lesson learned
-
-But I didn't expect it to be reported and taken off the shelves after 3 days of going online, and I felt very angry at the time. This is the first lesson learned. The competition you think is a security attack, but the real competition is a malicious report. Later, there was a wave of complaints with the review of WeChat. First, the dialogue function was temporarily removed, and only a pronunciation evaluation function was added. It took a while to add the AI dialogue feature back.
-
-Later, when the app was launched, some people posted bad reviews maliciously in the app store. At this time, I just mocked and went back, and then the other party deleted the bad reviews, which is very funny.
-
-# APP Development
-
-Because of the small program problem, the development progress of APP was accelerated. I bought a mac mini, learned a bit about React Native, tossed about the APP development environment, and then launched the IOS and Android versions at the end of April.
-
-The feedback after the APP was launched is also very good. According to user feedback, version 1.0.1 focused on optimizing a wave of dialogue experience, such as translation/prompt words/notebooks. In version 1.0.2, the real-time mode is launched, which can realize the effect of making a phone call. It was already mid-May at this time.
-
-# Operation Promotion
-
-I don't know this at all, but I learned a lot by watching the promotion methods of similar products.
-
-For example, the activity of "Sending Xiaohongshu to members/App Store praise to members", as well as the promotion method of agency/secondary distribution, I didn't expect to be able to play like this, and I gained a lot of posture. It turns out that many kinds of cursive/good reviews come from this way~
-
-However, because SpeakAI does not charge, none of these methods can be used. You can give it a try when a paid plan is launched later.
-
-# Next step planning
-
-After 3 versions of iterations, the dialogue experience is basically OK. Because I only have to do it on weekends, and I don’t have much time. I thought that competing products would go deeper in functions/scenarios, but I didn’t expect that competing products would spend all their attention on operation and promotion, and the functions would not be much after the first version. Iterated, but SpeakAI has done more in terms of functions.
-
-At this time, I handed over a lot of development work to my friend, and I can devote my energy to research and thinking.
-
-In the next step, we should still focus on oral English learning scenarios and provide a more complete learning experience, because AI dialogue is only a capability, and it will eventually fall into learning to really help users learn oral English better. Personally, I feel that relying on nonsense dialogue alone is of limited help to oral English learning. Early users may find it fresh, but if it is of no value, it will become cold after a while. This is also a point worthy of further thinking and development, and it is also a place that is really difficult and has barriers.
-
+title: SpeakAI开发的感想
+description:  SpeakAI开发的感想
 ---
 # SpeakAI开发的感想
 

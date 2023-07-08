@@ -1,60 +1,43 @@
 ---
 layout: page
-title: What's New
-description: Lastest changelog for SpeakAI
+title: 新功能🔥
+description: SpeakAI更新日志
 include_in_header: true
 ---
 
-# Changelog
+# 更新日志
+
+![](../../assets/feature.jpg)
+
 ## 1.0.5
-1. Multi-language online, supporting 8 languages learning in Chinese, English, Japanese, Korean, French, German, Italian and Spanish.
-2. Support to choose favorite tone. Not only can you switch between British and American accents, but there are also a variety of character timbres to choose from.
-3. Support to adjust the speech rate. Fast, medium and slow, choose the speaking speed that suits you according to your needs.
-4. Long press the record button to support sending text, and you can also input Chinese translation and send it.
+1. 多语言上线，支持中英日韩法德意西班牙8种语言学习。
+2. 支持选择喜欢的音色。不仅可以切换英音、美音，还有多种角色音色可供选择。
+3. 支持调节语速。快中慢，按需选择适合你的语速。
+4. 长按录音按钮支持发送文字，也可以输入中文翻译后发送。
+
+预告：雅思题库练习正在开发中，最新5-8月题库作为参考，AI模拟对话，闪卡跟读练习，让你的屠鸭之旅更轻松！
 
 ## 1.0.4
-For the healthy and long-term operation of SpeakAI, a payment plan is now launched. Less than a cup of coffee a month ☕ 
-In addition:
-1. Free users still enjoy 10 free dialogue opportunities per day
-2. Participate in the grass planting activity now, 100% free members, come and try it~
+为了SpeakAI健康长久地运营，现推出付费计划。一个月不到一杯咖啡钱☕ 此外：
+1. 免费用户依然享受每日10次免费对话机会
+2. 现在参与种草活动，100%送会员，快来试试吧～
 
 ## 1.0.3
-【New Features】
-1. Added scenario courses, more courses are being updated
-2. Added flashcard follow-up function, you can practice the sentences in the notebook repeatedly
-3. Support registration and login, existing data will be automatically synchronized to the new account
-
-【Function Optimization】
-1. Live mode supports subtitles
-2. Long press the record button to support text input
+【新功能】
+1. 新增场景课程，更多课程正在更新中
+2. 新增闪卡跟读功能，可以反复练习笔记本中的句子了
+3. 支持注册登录，已有数据将自动同步到新账号中
+【功能优化】
+1. 实时模式支持开启字幕
+2. 长按录音按钮支持输入文本
 
 ## 1.0.2
 
-【New Features】
-1. Real-time mode, 1v1 real-time calls with Jenny teacher.
-2. Support for automatic grammar checking.
-
-【Function Optimization】
-1. IOS end text long press supports selecting individual words.
-
-【Bug Fixes】
-1. Fix the issue that the send button can not be clicked when the network is poor.
-2. Fix the issue that the history page can not be scrolled when too long.
-
-## 1.0.1
-
-【New Features】
-
-1. Added conversation translation function, no need to look up words in the dictionary for unfamiliar words anymore.
-2. Added notebook function for collecting messages and unified review.
-3. Added prompt word function for reference answers when unsure how to respond.
-
-【Feature Optimization】
-
-1. Extended maximum conversation time to 60 seconds.
-2. Long-press messages to select and copy text.
-
-【Bug Fixes】
-
-1. Fixed the issue of voice playback continuing after exiting the chat.
-2. Fixed the issue of voice playback not stopping during recording.
+【新功能】
+1. 实时模式，与Jenny老师1v1实时通话
+2. 支持自动语法检查
+【功能优化】
+1. IOS端文本长按支持选中单个单词
+【问题修复】
+1. 修复网络较差时无法点击发送按钮
+2. 修复历史记录页面太长时无法滚动
