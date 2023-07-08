@@ -12,7 +12,7 @@ presskit_download_link                    : https://edreamai.feishu.cn/docx/C5OG
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : SpeakAI - Learn Language                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Chat with the most advanced AI tutor in the world, receive real-time feedback, and help you learn a new language.
+app_description                           : Immerse yourself in the world of spoken languages with our AI-powered language app. Learn multiple languages, practice real-life scenarios, receive grammar corrections, and choose from a variety of voices. Start your language learning journey today!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,27 +36,27 @@ github_username                           : https://github.com/edreamai/edreamai
 features                                  :
 
   - title                                 : AI Tutor powered by OpenAI
-    description                           : Anytime, anywhere, your personal spoken language teacher
+    description                           : Our app features an advanced AI tutor, leveraging the power of OpenAI, to guide you through your language learning journey. Benefit from personalized learning paths and interactive exercises that adapt to your unique needs and pace.
     fontawesome_icon_name                 : magic
   
   - title                                 : Multiple Languages Learning
-    description                           : Now we support Chinese, English, Japanese, Korean, French, German, Italian, and Spanish
+    description                           : We offer support for a wide range of languages, including Chinese, English, Japanese, Korean, French, German, Italian, and Spanish. Explore different cultures and expand your global communication skills effortlessly.
     fontawesome_icon_name                 : language
 
   - title                                 : Scenario Courses
-    description                           : Scenario courses allow you to easily deal with dialogues in various occasions
+    description                           : Our app offers scenario-based courses that allow you to master dialogues and conversations in various real-life situations. Learn how to navigate through everyday conversations, business interactions, travel experiences, and more.
     fontawesome_icon_name                 : book
     
   - title                                 : Grammar Correction
-    description                           : Real-time feedback, providing grammar suggestions
+    description                           : Receive real-time feedback and personalized grammar suggestions to enhance your language proficiency. Our app helps you identify and correct grammatical errors, ensuring that your spoken language skills are accurate and polished.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Real-time Mode
-    description                           : Real-time dialogue, immersive experience
+    description                           : Immerse yourself in a realistic language learning experience with our real-time dialogue feature. Engage in conversations with virtual partners and native speakers, improving your pronunciation and fluency in a dynamic and interactive environment.
     fontawesome_icon_name                 : graduation-cap
 
   - title                                 : Rich Voice
-    description                           : 100+ voice to choose from, always one option fit for you
+    description                           : Choose from a vast selection of over 100 voices, allowing you to find the perfect fit for your language learning journey. Experience the joy of learning with voices that resonate with you and make the language come alive.
     fontawesome_icon_name                 : microphone
 
 
