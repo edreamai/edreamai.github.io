@@ -6,6 +6,13 @@ include_in_header: true
 ---
 
 # Changelog
+## 1.0.7
+1. Support active grammar checking and answer polishing
+2. Support open scene dialogue, chat freely from travel to business
+3. Support the display of course scores and progress, allowing you to visually see your progress
+4. Add support for Vietnamese language
+5. Support punch card learning
+
 ## 1.0.5
 1. Multi-language online, supporting 8 languages learning in Chinese, English, Japanese, Korean, French, German, Italian and Spanish.
 2. Support to choose favorite tone. Not only can you switch between British and American accents, but there are also a variety of character timbres to choose from.
